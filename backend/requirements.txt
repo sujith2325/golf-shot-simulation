@@ -1,0 +1,9 @@
+flask
+flask-cors
+numpy
+scipy
+pandas
+sqlalchemy
+pyjwt
+bcrypt
+cryptography
