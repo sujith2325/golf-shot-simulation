@@ -1,7 +1,7 @@
 # ⛳ Golf Shot Simulation
 
 A modern, interactive golf simulation platform that combines realistic golf physics with immersive 3D gameplay. The project features a Python-powered physics engine, a premium web dashboard, and an engaging play mode where players naturally swing a virtual golf club.
-
+<img width="1882" height="945" alt="image" src="https://github.com/user-attachments/assets/42adfbc9-ba6d-4af7-8268-5073e36e1ca4" />
 ## 🚀 Features
 
 ### 🎯 Golf Simulator
